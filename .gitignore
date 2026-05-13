@@ -19,9 +19,5 @@ env/
 data/
 *.csv
 
-# Models
-*.pkl
-*.joblib
-
 # Misc
 .DS_Store
