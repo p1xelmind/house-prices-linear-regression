@@ -1,0 +1,25 @@
+# Notebooks & Data
+*.ipynb
+*.ipynb.*
+*.ipynb~
+.ipynb_checkpoints/
+data/
+*.csv
+
+# IDEs & System files
+.vscode/
+.idea/
+.env
+.DS_Store
+
+# Git & Docker configs
+.git/
+.gitignore
+.dockerignore
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
